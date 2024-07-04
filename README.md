@@ -2,4 +2,4 @@ The entire executale source code is present in a single file 'pizzamania.java' c
 
 The source code functions as a simple menu driven code taking inputs from the user based on which the total sum of the order is evaluated automatically.
 
-You can run the program inside your github codespace (after forking or cloning this repository into your account).
+You can run this program by creating a codespace from this repository.
